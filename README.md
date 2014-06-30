@@ -15,9 +15,9 @@ other:
 * elixir 0.14.0
 
 effect:
-send a request,return a json list
+* send a request,return a json list
 
 use it:
-1.mix deps.get
-2.mix deps.compile
-3.mix server
+* 1.mix deps.get
+* 2.mix deps.compile
+* 3.mix server

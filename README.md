@@ -17,7 +17,7 @@ other:
 effect:
 * send a request,return a json list
 
-use it:
+usage:
 * 1.mix deps.get
 * 2.mix deps.compile
 * 3.mix server

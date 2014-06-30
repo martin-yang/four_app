@@ -10,3 +10,14 @@ Resources:
 * [Dynamo source code](https://github.com/elixir-lang/dynamo)
 * [Dynamo guides](https://github.com/elixir-lang/dynamo#learn-more)
 * [Dynamo docs](http://elixir-lang.org/docs/dynamo)
+
+other:
+* elixir 0.14.0
+
+effect:
+send a request,return a json list
+
+use it:
+1.mix deps.get
+2.mix deps.compile
+3.mix server
